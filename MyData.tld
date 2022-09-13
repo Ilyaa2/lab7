@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<myCollection>
+<vector>
+<StudyGroup>
+<id>1</id>
+<name>P3117</name>
+<coordinates x="3.0" y="2.0"/>
+<creationDate>2021-03-22T15:12:12.324</creationDate>
+<studentsCount>28</studentsCount>
+<shouldBeExpelled>32</shouldBeExpelled>
+<formOfEducation>FULL_TIME_EDUCATION</formOfEducation>
+<semesterEnum>SECOND</semesterEnum>
+<groupAdmin>
+<name>Саша</name>
+<birthday>2003-01-21T11:11:11.111</birthday>
+<height>182</height>
+<passportID>123456</passportID>
+<hairColor>ORANGE</hairColor>
+</groupAdmin>
+</StudyGroup>
+<StudyGroup>
+<id>2</id>
+<name>P3118</name>
+<coordinates x="4.0" y="5.0"/>
+<creationDate>2017-02-22T12:15:15.555</creationDate>
+<studentsCount>20</studentsCount>
+<shouldBeExpelled>100</shouldBeExpelled>
+<formOfEducation>FULL_TIME_EDUCATION</formOfEducation>
+<semesterEnum>SECOND</semesterEnum>
+<groupAdmin>
+<name>Петя</name>
+<birthday>2003-05-25T15:15:15.551</birthday>
+<height>150</height>
+<passportID>654312</passportID>
+<hairColor>ORANGE</hairColor>
+</groupAdmin>
+</StudyGroup>
+<StudyGroup>
+<id>774992232</id>
+<name>P3110</name>
+<coordinates x="6.0" y="7.0"/>
+<creationDate>2022-04-24T23:12:05.142</creationDate>
+<studentsCount>23</studentsCount>
+<shouldBeExpelled>20</shouldBeExpelled>
+<formOfEducation>DISTANCE_EDUCATION</formOfEducation>
+<semesterEnum>FIRST</semesterEnum>
+<groupAdmin>
+<name>Саша</name>
+<birthday>2003-01-21T11:11:11</birthday>
+<height>182</height>
+<passportID>123456</passportID>
+<hairColor>ORANGE</hairColor>
+</groupAdmin>
+</StudyGroup>
+</vector>
+<timeOfCreation>2022-02-23T13:16:10.384</timeOfCreation>
+</myCollection>
